@@ -6,3 +6,5 @@ Almo. Gabriel Hidalgo Montalvo
 1. Hola Mundo
 3. TRIFIV versión 2
 4. TRIFIV version 3
+5. TRIFIV versión 4
+6. TRIFIV versión 5
