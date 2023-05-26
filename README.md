@@ -4,7 +4,8 @@ Docente: Dr. Hugo Ortiz Quiroga
 Almo. Gabriel Hidalgo Montalvo
 
 1. Hola Mundo
-3. TRIFIV versión 2
-4. TRIFIV version 3
-5. TRIFIV versión 4
-6. TRIFIV versión 5
+2. TRIFIV versión 2
+3. TRIFIV version 3
+4. TRIFIV versión 4
+5. TRIFIV versión 5
+6. Juego
